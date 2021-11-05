@@ -25,7 +25,7 @@ render() {
             <Controls
                newGreeting={this.handleNewGreeting}
                newName={this.handleNewName}
-               onClick={this.handleClick}
+            
                 />
 
             <Display 
